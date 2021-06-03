@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **A problem solving portal with built in IDE**
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Express.js, Three.js, React, Socket.io**
 
 - 💬 Ask me about **Node.js, Java, Python, Data Structure, Algorithm**
 
