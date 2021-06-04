@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<p><img aling="left" src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/github.gif" width="300" height="300">
-  <img aling="right" src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/Node.gif" width="300" height="300">
+<p><img aling="left" src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/github.gif" width="200" height="200">
+  <img aling="right" src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/Node.gif" width="200" height="200">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanwer-pradeep&label=Profile%20views&color=0e75b6&style=flat" alt="tanwer-pradeep" /> </p>
