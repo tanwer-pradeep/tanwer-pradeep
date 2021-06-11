@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pradeep-singh-20aa37210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pradeep-singh-20aa37210" height="30" width="40" /></a>
-<a href="www.instagram.com/pradeepsinghtanwer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pradeepsinghtanwer/" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/pradeepsinghtanwer/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/pradeepsinghtanwer/" height="30" width="40" /></a>  
 <a href="https://www.codechef.com/users/pst9696" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pst9696" height="30" width="40" /></a>
 <!-- <a href="https://www.hackerrank.com/pradeepsinghonl1" target="blank"><img align="center" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="pradeepsinghonl1" height="500" width="100" /></a> -->
 <a href="https://www.leetcode.com/pradeepsinghonline/" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="pradeepsinghonline/" height="40" width="50" /></a>
