@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **A problem solving portal with built in IDE**
 
-- 🌱 I’m currently learning **Express.js, Three.js, React, Socket.io**
+- 🌱 I’m currently learning **React, Express.js, Three.js, Socket.io**
 
 - 💬 Ask me about **Node.js, Java, Python, Data Structure, Algorithm**
 
