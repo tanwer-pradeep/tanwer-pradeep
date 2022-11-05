@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pradeep Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-https://holopin.me/tanwerpradeep09
-(https://holopin.io/@tanwerpradeep09)
+<p>
+  [![@tanwerpradeep09's Holopin board](https://holopin.me/tanwerpradeep09)](https://holopin.io/@tanwerpradeep09)
+  <img src="https://holopin.io/@tanwerpradeep09" width="500" height="500">
+</p>
 <p>
   <img src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/Javascript.webp" width="200" height="200">
   <img src="https://github.com/tanwer-pradeep/tanwer-pradeep/blob/main/gifs/Python.webp" width="200" height="200">
